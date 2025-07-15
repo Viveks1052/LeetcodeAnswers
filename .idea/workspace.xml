@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b05de0e9-1139-4187-94ea-2052233251c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/CountAllDigitOfANumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GCDORHCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/PalinDroneNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/UserInputOuput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Striver79/CountNumberOfSubarraysWithGivenXorK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Striver79/MajorityElementII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Striver79/MaximumSumKadanesAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Striver79/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Striver79/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetCode/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetCode/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetCode/MajorityElementII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetCode/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leetCode/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logic/AllSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/logic/peekOfAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Viveks1052&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Viveks1052/LeetcodeAnswers.git&quot;,
+    &quot;accountId&quot;: &quot;f33ed605-f538-48d8-b895-d60e1c172f67&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nT8iKB8wxv689saW35K1WrdTTH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AllSubstring.executor": "Run",
+    "Application.CountAllDigitOfANumber.executor": "Run",
+    "Application.CountNumberOfSubarraysWithGivenXorK.executor": "Run",
+    "Application.GCDORHCF.executor": "Run",
+    "Application.KadanesAlgorithm.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestSubstringWithOutRepeatingCharacters.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MajorityElementII.executor": "Run",
+    "Application.MaximumSumKadanesAlgo.executor": "Run",
+    "Application.MedianOfTwoArrays.executor": "Debug",
+    "Application.NextPermutation.executor": "Run",
+    "Application.PalinDroneNumber.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
+    "Application.ThreeSumLeetCode.executor": "Debug",
+    "Application.TwoSum.executor": "Run",
+    "Application.UserInputOuput.executor": "Run",
+    "Application.com.Striver79.MajorityElementII.executor": "Run",
+    "Application.pattern1.executor": "Run",
+    "Application.pattern2.executor": "Run",
+    "Application.pattern3.executor": "Run",
+    "Application.pattern4.executor": "Run",
+    "Application.pattern5.executor": "Run",
+    "Application.peekOfAnArray.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/micro_yt/HtmlResponse/HtmlResponse",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/Java Concepts/JavConcepts/File/LeeCodeQuestions/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\Java Concepts\JavConcepts\File\LeeCodeQuestions\src\com\leetCode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GCDORHCF">
+    <configuration name="CountAllDigitOfANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.CountAllDigitOfANumber" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCDORHCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.GCDORHCF" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalinDroneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.PalinDroneNumber" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.ReverseNumber" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="peekOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.logic.peekOfAnArray" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GCDORHCF" />
+        <item itemvalue="Application.PalinDroneNumber" />
+        <item itemvalue="Application.ReverseNumber" />
+        <item itemvalue="Application.CountAllDigitOfANumber" />
+        <item itemvalue="Application.peekOfAnArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b05de0e9-1139-4187-94ea-2052233251c3" name="Changes" comment="" />
+      <created>1728985832074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728985832074</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetCode/MedianOfTwoArrays.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetCode/ThreeSumLeetCode.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leetCode/LongestSubstringWithOutRepeatingCharacters.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
