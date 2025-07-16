@@ -1,6 +1,4 @@
-package Striver455DSA.BasicMaths;
-
-import java.sql.SQLOutput;
+package Striver455DSA.Basics.BasicRecursion.BasicMaths;
 
 public class ReverseNumber {
 

@@ -1,4 +1,4 @@
-package Striver455DSA.LogicalBuild;
+package Striver455DSA.Basics.BasicRecursion.BasicMaths.LogicalBuild;
 
 
 import java.util.Scanner;

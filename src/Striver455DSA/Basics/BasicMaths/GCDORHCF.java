@@ -1,4 +1,4 @@
-package Striver455DSA.BasicMaths;
+package Striver455DSA.Basics.BasicRecursion.BasicMaths;
 
 //You are given two integers n1 and n2. You need find the Greatest Common Divisor (GCD) of the two given numbers.
 //Return the GCD of the two numbers.

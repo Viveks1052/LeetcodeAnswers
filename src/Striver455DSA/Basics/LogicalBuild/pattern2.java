@@ -1,14 +1,8 @@
-package Striver455DSA.LogicalBuild;
+package Striver455DSA.Basics.BasicRecursion.BasicMaths.LogicalBuild;
 
 import java.util.Scanner;
 
-
-
-
-import java.sql.SQLOutput;
-import java.util.Scanner;
-
-    // we need to print *****
+// we need to print *****
 //*
 //**
 //***
