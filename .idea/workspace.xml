@@ -5,11 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b05de0e9-1139-4187-94ea-2052233251c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ArmStrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/MathematicsLogics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/PrimeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/FactorialOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/PrintNTimesNameUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/PrintNTo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/ReverseArrayUsingRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/SumOFFirstNNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GCDORHCF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GCDORHCF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ArmStrongNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/CountAllDigitOfANumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GCDORHCF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GreatestCommonDivisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/MathematicsLogics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/PalinDroneNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/PrimeCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ReverseNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/Basics/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/Basics/UserInputOuput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern6.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +72,7 @@
     "Application.ArmStrongNumber.executor": "Run",
     "Application.CountAllDigitOfANumber.executor": "Run",
     "Application.CountNumberOfSubarraysWithGivenXorK.executor": "Run",
+    "Application.FactorialOfN.executor": "Run",
     "Application.GCDORHCF.executor": "Run",
     "Application.KadanesAlgorithm.executor": "Run",
     "Application.LongestPalindromicSubstring.executor": "Run",
@@ -67,8 +85,11 @@
     "Application.NextPermutation.executor": "Run",
     "Application.PalinDroneNumber.executor": "Run",
     "Application.PrimeCheck.executor": "Run",
+    "Application.PrintNTimesNameUsingRecursion.executor": "Run",
+    "Application.PrintNTo1.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.SumOFFirstNNumbers.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.ThreeSumLeetCode.executor": "Debug",
@@ -97,13 +118,13 @@
       <recent name="C:\Users\Lenovo\Desktop\Java Concepts\JavConcepts\File\LeeCodeQuestions\src\com\leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrimeCheck">
-    <configuration name="ArmStrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.ArmStrongNumber" />
+  <component name="RunManager" selected="Application.ReverseArrayUsingRecursion">
+    <configuration name="FactorialOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.FactorialOfN" />
       <module name="LeetCodeQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCDORHCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.GCDORHCF" />
+    <configuration name="PrintNTimesNameUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.PrintNTimesNameUsingRecursion" />
       <module name="LeetCodeQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathematicsLogics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.MathematicsLogics" />
+    <configuration name="PrintNTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.PrintNTo1" />
       <module name="LeetCodeQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalinDroneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.PalinDroneNumber" />
+    <configuration name="ReverseArrayUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.ReverseArrayUsingRecursion" />
       <module name="LeetCodeQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.BasicMaths.PrimeCheck" />
+    <configuration name="SumOFFirstNNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.SumOFFirstNNumbers" />
       <module name="LeetCodeQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Striver455DSA.BasicMaths.*" />
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeCheck" />
-        <item itemvalue="Application.ArmStrongNumber" />
-        <item itemvalue="Application.GCDORHCF" />
-        <item itemvalue="Application.MathematicsLogics" />
-        <item itemvalue="Application.PalinDroneNumber" />
+        <item itemvalue="Application.ReverseArrayUsingRecursion" />
+        <item itemvalue="Application.FactorialOfN" />
+        <item itemvalue="Application.SumOFFirstNNumbers" />
+        <item itemvalue="Application.PrintNTo1" />
+        <item itemvalue="Application.PrintNTimesNameUsingRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -203,9 +224,17 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ArmStrongNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/BasicMaths/ArmStrongNumber.java</url>
           <line>15</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/FactorialOfN.java</url>
+          <line>17</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
