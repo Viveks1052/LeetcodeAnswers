@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b05de0e9-1139-4187-94ea-2052233251c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/FactorialOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/PrintNTimesNameUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/PrintNTo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/ReverseArrayUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/SumOFFirstNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicHashing/CountTMaxOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicHashing/OccurenceOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicHashing/OccurenceOfTheValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ArmStrongNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/CountAllDigitOfANumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GCDORHCF.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/GreatestCommonDivisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/MathematicsLogics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/PalinDroneNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/PrimeCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/BasicMaths/ReverseNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/Basics/SwitchCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/Basics/UserInputOuput.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/LogicalBuild/pattern6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicMaths/ArmStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Striver455DSA/Basics/BasicMaths/ArmStrongNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,7 +47,7 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2nT8iKB8wxv689saW35K1WrdTTH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -72,6 +60,7 @@
     "Application.ArmStrongNumber.executor": "Run",
     "Application.CountAllDigitOfANumber.executor": "Run",
     "Application.CountNumberOfSubarraysWithGivenXorK.executor": "Run",
+    "Application.CountTMaxOccurence.executor": "Run",
     "Application.FactorialOfN.executor": "Run",
     "Application.GCDORHCF.executor": "Run",
     "Application.KadanesAlgorithm.executor": "Run",
@@ -83,6 +72,8 @@
     "Application.MaximumSumKadanesAlgo.executor": "Run",
     "Application.MedianOfTwoArrays.executor": "Debug",
     "Application.NextPermutation.executor": "Run",
+    "Application.OccurenceOfCharacters.executor": "Run",
+    "Application.OccurenceOfTheValues.executor": "Run",
     "Application.PalinDroneNumber.executor": "Run",
     "Application.PrimeCheck.executor": "Run",
     "Application.PrintNTimesNameUsingRecursion.executor": "Run",
@@ -104,13 +95,15 @@
     "Application.peekOfAnArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Lenovo/Desktop/micro_yt/HtmlResponse/HtmlResponse",
-    "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/Java Concepts/JavConcepts/File/LeeCodeQuestions/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/Desktop/Java Concepts/JavConcepts/File/LeeCodeQuestions/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pathVariables"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -118,7 +111,20 @@
       <recent name="C:\Users\Lenovo\Desktop\Java Concepts\JavConcepts\File\LeeCodeQuestions\src\com\leetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseArrayUsingRecursion">
+  <component name="RunManager" selected="Application.CountTMaxOccurence">
+    <configuration name="CountTMaxOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicHashing.CountTMaxOccurence" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicHashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactorialOfN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.FactorialOfN" />
       <module name="LeetCodeQuestions" />
@@ -132,12 +138,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNTimesNameUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.PrintNTimesNameUsingRecursion" />
+    <configuration name="OccurenceOfCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicHashing.OccurenceOfCharacters" />
       <module name="LeetCodeQuestions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicHashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OccurenceOfTheValues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicHashing.OccurenceOfTheValues" />
+      <module name="LeetCodeQuestions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Striver455DSA.Basics.BasicHashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,39 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArrayUsingRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.ReverseArrayUsingRecursion" />
-      <module name="LeetCodeQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOFFirstNNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Striver455DSA.Basics.BasicRecursion.SumOFFirstNNumbers" />
-      <module name="LeetCodeQuestions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Striver455DSA.Basics.BasicRecursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArrayUsingRecursion" />
+        <item itemvalue="Application.CountTMaxOccurence" />
+        <item itemvalue="Application.OccurenceOfCharacters" />
+        <item itemvalue="Application.OccurenceOfTheValues" />
         <item itemvalue="Application.FactorialOfN" />
-        <item itemvalue="Application.SumOFFirstNNumbers" />
         <item itemvalue="Application.PrintNTo1" />
-        <item itemvalue="Application.PrintNTimesNameUsingRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -227,14 +220,6 @@
           <url>file://$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/BasicMaths/ArmStrongNumber.java</url>
           <line>15</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Striver455DSA/Basics/BasicRecursion/FactorialOfN.java</url>
-          <line>17</line>
-          <properties>
-            <option name="lambda-ordinal" value="-1" />
-          </properties>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

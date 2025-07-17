@@ -1,4 +1,4 @@
-package Striver455DSA.Basics.BasicRecursion.BasicMaths;
+package Striver455DSA.Basics.BasicMaths;
 
 public class ArmStrongNumber {
 
